@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - My name is Rahul Roshan and I'm an Android Developer.
-- I'm currently working on an productivity app, soon the details will be out.
+- I'm currently working on an productivity app, details will be out soon.
 
 <!--
 **merahulroshan/merahulroshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
